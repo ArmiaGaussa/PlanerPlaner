@@ -26,8 +26,8 @@ const App = () => {
 
   return (
     <div>
-      <Calendar onDateChange={handleDateChange} />
-      <Schedule date={selectedDate} />
+      {/* <Calendar onDateChange={handleDateChange} />
+      <Schedule date={selectedDate} /> */}
       <MyCalendar events={events} />
     </div>
   );

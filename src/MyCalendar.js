@@ -1,6 +1,6 @@
 import { Calendar, dateFnsLocalizer } from 'react-big-calendar'
 import { format, startOfWeek, getDay, parse } from 'date-fns'
-import 'react-big-calendar/lib/css/react-big-calendar.css'
+import './MyCalendar.css'
 
 const locales = {
     'en-US': require('date-fns/locale/en-US'),
@@ -21,7 +21,7 @@ const MyCalendar = ({ events }) => (
         events={events}
         startAccessor="start"
         endAccessor="end"
-        style={{ height: 500 }}
+        style={{ height: "100vh" }}
       />
     </div>
   )

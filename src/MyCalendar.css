@@ -1,0 +1,83 @@
+@import url("react-big-calendar/lib/css/react-big-calendar.css");
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.rbc-label, .rbc-button-link {
+    color: #B1B1B1;
+}
+
+.rbc-day-slot .rbc-time-slot {
+    border: none;
+}
+
+.rbc-time-content > * + * > * {
+    border-left: none;
+    border-color: #DCDCDC;
+}
+
+.rbc-time-slot {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex: unset;
+    /* TODO: highlight selected with this: text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+}
+
+
+
+.rbc-day-bg + .rbc-day-bg, .rbc-header, .rbc-time-header-content, .rbc-time-view, .rbc-header + .rbc-header {
+    border: none;
+}
+
+.rbc-button-link {
+    font-family: 'Montserrat';
+}
+
+.rbc-allday-cell {
+    display: none;
+}
+
+.rbc-header {
+    padding: 20px 0;
+    box-sizing:content-box;
+}
+.rbc-time-gutter > .rbc-timeslot-group {
+    border: none;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rbc-time-column .rbc-timeslot-group {
+    flex: unset !important;
+}
+
+.rbc-event {
+    background: #E9EFFF;
+    border: none !important;
+    border-radius: 6px;
+    border-left: 7px solid #5272E9 !important;
+    color: #5272E9;
+    height: unset !important;
+    padding: 10px 5px 10px 5px;
+}
+
+.rbc-time-content {
+    border-width: 1px;
+}
+
+.rbc-selected {
+    background: #B5C7FF !important;
+}
+
+.rbc-time-column .rbc-timeslot-group {
+    height: 100px;
+}
+
+.rbc-events-container {
+    margin: 1px 2px !important;
+}
