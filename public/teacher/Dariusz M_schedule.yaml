@@ -1,0 +1,95 @@
+mon:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: I
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '101'
+   14:15-15:45:
+   -  grupa: VI
+      przedmiot: Teoria mechaniki kwantowej
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '102'
+   16:15-17:45:
+   -  grupa: I
+      przedmiot: Matematyka
+      typ: laboratorium
+      prowadzacy: Dariusz M
+      sala: '207'
+   18:15-19:45: []
+tues:
+   8:15-9:45:
+   -  grupa: I
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '208'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+wed:
+   8:15-9:45:
+   -  grupa: II
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Dariusz M
+      sala: '208'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45:
+   -  grupa: III
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '208'
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: V
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '102'
+   14:15-15:45:
+   -  grupa: I
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Dariusz M
+      sala: '103'
+   16:15-17:45:
+   -  grupa: III
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '207'
+   18:15-19:45:
+   -  grupa: IV
+      przedmiot: Elektoronika
+      typ: laboratorium
+      prowadzacy: Dariusz M
+      sala: '205'
+fri:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: VI
+      przedmiot: Fizyka
+      typ: laboratorium
+      prowadzacy: Dariusz M
+      sala: '208'
+   12:15-13:45:
+   -  grupa: IV
+      przedmiot: Matematyka
+      typ: laboratorium
+      prowadzacy: Dariusz M
+      sala: '207'
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []

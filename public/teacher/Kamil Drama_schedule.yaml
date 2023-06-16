@@ -1,0 +1,85 @@
+mon:
+   8:15-9:45:
+   -  grupa: III
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '103'
+   10:15-11:45:
+   -  grupa: I
+      przedmiot: Silniki baz danych
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '103'
+   12:15-13:45:
+   -  grupa: III
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil Drama
+      sala: '206'
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: V
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil Drama
+      sala: '205'
+   16:15-17:45: []
+   18:15-19:45: []
+wed:
+   8:15-9:45:
+   -  grupa: VI
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil Drama
+      sala: '206'
+   10:15-11:45:
+   -  grupa: V
+      przedmiot: Silniki baz danych
+      typ: laboratorium
+      prowadzacy: Kamil Drama
+      sala: '206'
+   12:15-13:45:
+   -  grupa: IV
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '102'
+   14:15-15:45:
+   -  grupa: II
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '104'
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: I
+      przedmiot: Projektowanie Zespolowe
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '103'
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+fri:
+   8:15-9:45:
+   -  grupa: II
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil Drama
+      sala: '208'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []

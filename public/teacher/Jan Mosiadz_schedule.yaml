@@ -1,0 +1,125 @@
+mon:
+   8:15-9:45:
+   -  grupa: VI
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '206'
+   10:15-11:45:
+   -  grupa: VI
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Jan Mosiadz
+      sala: '104'
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: V
+      przedmiot: Teoria mechaniki kwantowej
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '103'
+   12:15-13:45:
+   -  grupa: V
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '101'
+   14:15-15:45:
+   -  grupa: II
+      przedmiot: Elektoronika
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '208'
+   16:15-17:45:
+   -  grupa: II
+      przedmiot: Teoria mechaniki kwantowej
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '101'
+   18:15-19:45: []
+wed:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: V
+      przedmiot: Matematyka
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '207'
+   16:15-17:45:
+   -  grupa: IV
+      przedmiot: Teoria mechaniki kwantowej
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '205'
+   18:15-19:45:
+   -  grupa: V
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Jan Mosiadz
+      sala: '208'
+thurs:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: V
+      przedmiot: Fizyka
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '205'
+   12:15-13:45:
+   -  grupa: II
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '104'
+   14:15-15:45:
+   -  grupa: VI
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Jan Mosiadz
+      sala: '205'
+   16:15-17:45: []
+   18:15-19:45: []
+fri:
+   8:15-9:45:
+   -  grupa: IV
+      przedmiot: Fizyka
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '207'
+   10:15-11:45:
+   -  grupa: V
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '205'
+   12:15-13:45:
+   -  grupa: II
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '103'
+   14:15-15:45:
+   -  grupa: IV
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '101'
+   16:15-17:45:
+   -  grupa: II
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '207'
+   18:15-19:45:
+   -  grupa: II
+      przedmiot: Fizyka
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '206'

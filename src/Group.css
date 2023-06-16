@@ -1,0 +1,93 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(45deg, rgba(2, 0, 36, 1), rgba(9, 9, 121, 1), rgba(0, 212, 255, 1));
+    background-size: 200% 200%;
+    animation: Gradient 15s ease infinite;
+  }
+  
+  .box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .box {
+    width: 200px;
+    height: 200px;
+    font-size: 24px;
+    background-color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .box:hover {
+    transform: scale(1.1);
+  }
+  
+  .box:active {
+    transform: scale(0.9);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .back-button {
+    display: block;
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    line-height: 50px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0px 10px 10px -10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .back-button:hover {
+    box-shadow: 0px 10px 10px -10px rgba(0, 0, 0, 0.4);
+    transform: scale(1.02);
+  }
+  
+  .back-button:active {
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 5px 10px -10px rgba(0, 0, 0, 0.2);
+    transform: scale(0.98);
+  }
+
+  .fade-enter {
+    opacity: 0.01;
+  }
+  
+  .fade-enter.fade-enter-active {
+    opacity: 1;
+    transition: opacity 300ms ease-in;
+  }
+  
+  .fade-exit {
+    opacity: 1;
+  }
+  
+  .fade-exit.fade-exit-active {
+    opacity: 0.01;
+    transition: opacity 300ms ease-in;
+  }

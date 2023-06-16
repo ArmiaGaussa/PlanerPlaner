@@ -1,0 +1,105 @@
+mon:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: IV
+      przedmiot: Silniki baz danych
+      typ: wyklad
+      prowadzacy: Kamil Dr
+      sala: '208'
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45:
+   -  grupa: IV
+      przedmiot: Implementacje przemyslowe
+      typ: wyklad
+      prowadzacy: Marek Ks
+      sala: '104'
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: IV
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil Dr
+      sala: '207'
+   14:15-15:45: []
+   16:15-17:45:
+   -  grupa: IV
+      przedmiot: Silniki baz danych
+      typ: laboratorium
+      prowadzacy: Marek K
+      sala: '206'
+   18:15-19:45: []
+wed:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: IV
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '102'
+   14:15-15:45:
+   -  grupa: IV
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil D
+      sala: '101'
+   16:15-17:45:
+   -  grupa: IV
+      przedmiot: Teoria mechaniki kwantowej
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '205'
+   18:15-19:45: []
+thurs:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: IV
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Dariusz Mroz
+      sala: '206'
+   16:15-17:45: []
+   18:15-19:45:
+   -  grupa: IV
+      przedmiot: Elektoronika
+      typ: laboratorium
+      prowadzacy: Dariusz M
+      sala: '205'
+fri:
+   8:15-9:45:
+   -  grupa: IV
+      przedmiot: Fizyka
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '207'
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: IV
+      przedmiot: Matematyka
+      typ: laboratorium
+      prowadzacy: Dariusz M
+      sala: '207'
+   14:15-15:45:
+   -  grupa: IV
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '101'
+   16:15-17:45:
+   -  grupa: IV
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Dariusz Mroz
+      sala: '104'
+   18:15-19:45:
+   -  grupa: IV
+      przedmiot: Implementacje przemyslowe
+      typ: laboratorium
+      prowadzacy: Marek Ksiadz
+      sala: '208'

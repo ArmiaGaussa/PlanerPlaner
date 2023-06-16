@@ -1,0 +1,70 @@
+mon:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45:
+   -  grupa: V
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil D
+      sala: '207'
+   10:15-11:45:
+   -  grupa: VI
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil D
+      sala: '207'
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+wed:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: VI
+      przedmiot: Elektoronika
+      typ: laboratorium
+      prowadzacy: Kamil D
+      sala: '205'
+   12:15-13:45:
+   -  grupa: I
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil D
+      sala: '207'
+   14:15-15:45:
+   -  grupa: IV
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil D
+      sala: '101'
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: III
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil D
+      sala: '208'
+   16:15-17:45: []
+   18:15-19:45: []
+fri:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: I
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil D
+      sala: '103'
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []

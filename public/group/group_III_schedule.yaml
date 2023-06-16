@@ -1,0 +1,110 @@
+mon:
+   8:15-9:45:
+   -  grupa: III
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '103'
+   10:15-11:45:
+   -  grupa: III
+      przedmiot: Elektoronika
+      typ: laboratorium
+      prowadzacy: Dariusz Mroz
+      sala: '207'
+   12:15-13:45:
+   -  grupa: III
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil Drama
+      sala: '206'
+   14:15-15:45:
+   -  grupa: III
+      przedmiot: Projektowanie Zespolowe
+      typ: wyklad
+      prowadzacy: Marek Ksiadz
+      sala: '205'
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45:
+   -  grupa: III
+      przedmiot: Implementacje przemyslowe
+      typ: wyklad
+      prowadzacy: Marek Ksiadz
+      sala: '208'
+   18:15-19:45: []
+wed:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: III
+      przedmiot: Silniki baz danych
+      typ: laboratorium
+      prowadzacy: Marek Ksiadz
+      sala: '205'
+   14:15-15:45:
+   -  grupa: III
+      przedmiot: Fizyka
+      typ: laboratorium
+      prowadzacy: Dariusz Mroz
+      sala: '208'
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45:
+   -  grupa: III
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '208'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: III
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil D
+      sala: '208'
+   16:15-17:45:
+   -  grupa: III
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '207'
+   18:15-19:45:
+   -  grupa: III
+      przedmiot: Projektowanie Zespolowe
+      typ: laboratorium
+      prowadzacy: Marek Ks
+      sala: '206'
+fri:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: III
+      przedmiot: Implementacje przemyslowe
+      typ: laboratorium
+      prowadzacy: Marek Ks
+      sala: '207'
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: III
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Dariusz Mroz
+      sala: '205'
+   16:15-17:45:
+   -  grupa: III
+      przedmiot: Silniki baz danych
+      typ: wyklad
+      prowadzacy: Marek K
+      sala: '102'
+   18:15-19:45:
+   -  grupa: III
+      przedmiot: Matematyka
+      typ: laboratorium
+      prowadzacy: Dariusz Mroz
+      sala: '205'

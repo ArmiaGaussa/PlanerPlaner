@@ -1,0 +1,65 @@
+mon:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: VI
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Jan Mosiadz
+      sala: '104'
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45:
+   -  grupa: IV
+      przedmiot: Implementacje przemyslowe
+      typ: wyklad
+      prowadzacy: Marek Ks
+      sala: '104'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+wed:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: I
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Kamil Dr
+      sala: '104'
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: II
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '104'
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: II
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '104'
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+fri:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45:
+   -  grupa: IV
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Dariusz Mroz
+      sala: '104'
+   18:15-19:45: []

@@ -1,0 +1,105 @@
+mon:
+   8:15-9:45:
+   -  grupa: II
+      przedmiot: Projektowanie Zespolowe
+      typ: wyklad
+      prowadzacy: Marek Ks
+      sala: '101'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: II
+      przedmiot: Matematyka
+      typ: laboratorium
+      prowadzacy: Dariusz Mroz
+      sala: '206'
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: II
+      przedmiot: Elektoronika
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '208'
+   16:15-17:45:
+   -  grupa: II
+      przedmiot: Teoria mechaniki kwantowej
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '101'
+   18:15-19:45:
+   -  grupa: II
+      przedmiot: Silniki baz danych
+      typ: laboratorium
+      prowadzacy: Marek K
+      sala: '205'
+wed:
+   8:15-9:45:
+   -  grupa: II
+      przedmiot: Matematyka
+      typ: cwiczenia
+      prowadzacy: Dariusz M
+      sala: '208'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: II
+      przedmiot: Podstawy programowania
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '104'
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45:
+   -  grupa: II
+      przedmiot: Projektowanie Zespolowe
+      typ: laboratorium
+      prowadzacy: Marek K
+      sala: '206'
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: II
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '104'
+   14:15-15:45:
+   -  grupa: II
+      przedmiot: Silniki baz danych
+      typ: wyklad
+      prowadzacy: Kamil Dr
+      sala: '207'
+   16:15-17:45: []
+   18:15-19:45: []
+fri:
+   8:15-9:45:
+   -  grupa: II
+      przedmiot: Podstawy programowania
+      typ: laboratorium
+      prowadzacy: Kamil Drama
+      sala: '208'
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: II
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '103'
+   14:15-15:45: []
+   16:15-17:45:
+   -  grupa: II
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Jan Mosiadz
+      sala: '207'
+   18:15-19:45:
+   -  grupa: II
+      przedmiot: Fizyka
+      typ: laboratorium
+      prowadzacy: Jan Mosiadz
+      sala: '206'

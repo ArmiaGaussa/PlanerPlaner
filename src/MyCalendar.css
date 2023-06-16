@@ -81,3 +81,39 @@ body {
 .rbc-events-container {
     margin: 1px 2px !important;
 }
+
+.floating-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #333;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    z-index: 9999;
+    text-decoration: none;
+  }
+  
+  .floating-button:hover {
+    background-color: #555;
+    transform: scale(1.1);
+  }
+  
+  .back-arrow {
+    position: relative;
+    top: -3px;
+    color: #fff;
+    font-size: 32px;
+    transition: transform 0.3s ease;
+  }
+  
+  .floating-button:hover .back-arrow {
+    top:3px;
+    transform: rotate(-180deg) scale(1.2);
+  }

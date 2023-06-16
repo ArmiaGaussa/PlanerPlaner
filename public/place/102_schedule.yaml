@@ -1,0 +1,70 @@
+mon:
+   8:15-9:45: []
+   10:15-11:45:
+   -  grupa: VI
+      przedmiot: Silniki baz danych
+      typ: wyklad
+      prowadzacy: Kamil Dr
+      sala: '102'
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: VI
+      przedmiot: Teoria mechaniki kwantowej
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '102'
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45:
+   -  grupa: VI
+      przedmiot: Systemy Wbudowane
+      typ: wyklad
+      prowadzacy: Marek K
+      sala: '102'
+   16:15-17:45: []
+   18:15-19:45: []
+wed:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: IV
+      przedmiot: Elektoronika
+      typ: wyklad
+      prowadzacy: Kamil Drama
+      sala: '102'
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: V
+      przedmiot: Matematyka
+      typ: wyklad
+      prowadzacy: Dariusz M
+      sala: '102'
+   14:15-15:45: []
+   16:15-17:45:
+   -  grupa: VI
+      przedmiot: Fizyka
+      typ: wyklad
+      prowadzacy: Dariusz Mroz
+      sala: '102'
+   18:15-19:45: []
+fri:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45:
+   -  grupa: III
+      przedmiot: Silniki baz danych
+      typ: wyklad
+      prowadzacy: Marek K
+      sala: '102'
+   18:15-19:45: []

@@ -1,0 +1,70 @@
+mon:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: V
+      przedmiot: Projektowanie Zespolowe
+      typ: wyklad
+      prowadzacy: Marek K
+      sala: '207'
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+tues:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45:
+   -  grupa: VI
+      przedmiot: Projektowanie Zespolowe
+      typ: laboratorium
+      prowadzacy: Marek K
+      sala: '205'
+   14:15-15:45:
+   -  grupa: VI
+      przedmiot: Systemy Wbudowane
+      typ: wyklad
+      prowadzacy: Marek K
+      sala: '102'
+   16:15-17:45:
+   -  grupa: IV
+      przedmiot: Silniki baz danych
+      typ: laboratorium
+      prowadzacy: Marek K
+      sala: '206'
+   18:15-19:45:
+   -  grupa: II
+      przedmiot: Silniki baz danych
+      typ: laboratorium
+      prowadzacy: Marek K
+      sala: '205'
+wed:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+thurs:
+   8:15-9:45:
+   -  grupa: II
+      przedmiot: Projektowanie Zespolowe
+      typ: laboratorium
+      prowadzacy: Marek K
+      sala: '206'
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45: []
+   18:15-19:45: []
+fri:
+   8:15-9:45: []
+   10:15-11:45: []
+   12:15-13:45: []
+   14:15-15:45: []
+   16:15-17:45:
+   -  grupa: III
+      przedmiot: Silniki baz danych
+      typ: wyklad
+      prowadzacy: Marek K
+      sala: '102'
+   18:15-19:45: []
